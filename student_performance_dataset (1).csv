@@ -1,0 +1,11 @@
+Name,Hours_Studied,Past_Paper_Score,Attendance_Percentage,Gender,Subject,Final_Score
+Alice,1,35,70,F,Math,40
+Bob,2,45,75,M,Tamil,48
+Charlie,3,50,80,M,Math,52
+David,4,55,85,M,English,60
+Eva,5,58,90,F,Tamil,65
+Frank,6,65,92,M,English,72
+Grace,7,70,95,F,Math,75
+Hannah,8,75,97,F,Tamil,78
+Ian,9,80,98,M,English,85
+Jack,10,85,99,M,Math,95
